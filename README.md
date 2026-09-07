@@ -1,4 +1,4 @@
-# Asir Infrastructure Projects Dataset
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d192286c-88d9-4b90-8a85-7e401a413b50" /># Asir Infrastructure Projects Dataset
 
 ## Overview
 
@@ -34,3 +34,17 @@ Future improvements may include:
 ## Author
 
 Personal data analysis and portfolio project.
+
+## Data Sources
+
+The project data was collected from publicly available government and news sources related to development and infrastructure projects in the Asir Region.
+
+The source of each project is documented in the **المصدر (Source)** column in the dataset.
+
+Examples of referenced sources include:
+
+* Saudi Press Agency (SPA / واس)
+* Sabq Newspaper (سبق)
+* Other publicly available government and news sources
+
+
