@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d192286c-88d9-4b90-8a85-7e401a413b50" /># Asir Infrastructure Projects Dataset
+# Asir Infrastructure Projects Dataset
 
 ## Overview
 
