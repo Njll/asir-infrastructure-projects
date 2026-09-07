@@ -31,10 +31,6 @@ Future improvements may include:
 * Building an interactive dashboard
 * Creating a geographic map of projects
 
-## Author
-
-Personal data analysis and portfolio project.
-
 ## Data Sources
 
 The project data was collected from publicly available government and news sources related to development and infrastructure projects in the Asir Region.
@@ -46,5 +42,10 @@ Examples of referenced sources include:
 * Saudi Press Agency (SPA / واس)
 * Sabq Newspaper (سبق)
 * Other publicly available government and news sources
+
+## Author
+
+Personal data analysis and portfolio project.
+
 
 
